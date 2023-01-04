@@ -1,7 +1,7 @@
 # Tugas_Stunting
 #Nama  : Rafli Nur Fadhillah Panca (20.01.53.0011)
 
-#Untuk mengatur pertanyaan dan jawaban, kita hanya perlu mengedit pada 3 file yaitu nlu.yml, domain.yml, dan stories.yml.
+#Untuk mensetting pertanyaan dan jawaban, kita hanya perlu mengedit pada 3 file yaitu nlu.yml, domain.yml, dan stories.yml.
 
 
 # Screenshot chatbox :
